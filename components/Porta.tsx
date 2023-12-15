@@ -1,6 +1,6 @@
 import styles from "../styles/Porta.module.css";
 import PortaModelo from '../model/porta';
-import Presente from '../components/Presente';
+import Presente from './Presente';
 
 interface PortaProps {
     entrada: PortaModelo,
